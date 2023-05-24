@@ -1,0 +1,68 @@
+[2023-05-05 14:57:09.437952] Waiting for device
+[2023-05-05 14:57:22.952032] Found device = 0e8d:0003
+[2023-05-05 14:59:26.860871] Waiting for device
+[2023-05-05 14:59:34.618466] Found device = 0e8d:0003
+[2023-05-05 14:59:34.824617] Device hw code: 0x766
+[2023-05-05 14:59:34.825618] Device hw sub code: 0x8a00
+[2023-05-05 14:59:34.825618] Device hw version: 0xca00
+[2023-05-05 14:59:34.826619] Device sw version: 0x0
+[2023-05-05 14:59:34.826619] Device secure boot: True
+[2023-05-05 14:59:34.827620] Device serial link authorization: True
+[2023-05-05 14:59:34.827620] Device download agent authorization: True
+[2023-05-05 14:59:34.827620] Disabling watchdog timer
+[2023-05-05 14:59:34.829621] Disabling protection
+[2023-05-05 14:59:34.849635] Protection disabled
+[2023-05-07 01:08:09.567109] Waiting for device
+[2023-05-07 01:08:37.088592] Found device = 0e8d:0003
+[2023-05-07 01:08:37.274938] Device hw code: 0x766
+[2023-05-07 01:08:37.274938] Device hw sub code: 0x8a00
+[2023-05-07 01:08:37.274938] Device hw version: 0xca00
+[2023-05-07 01:08:37.275937] Device sw version: 0x0
+[2023-05-07 01:08:37.275937] Device secure boot: True
+[2023-05-07 01:08:37.275937] Device serial link authorization: True
+[2023-05-07 01:08:37.275937] Device download agent authorization: True
+[2023-05-07 01:08:37.276938] Disabling watchdog timer
+[2023-05-07 01:08:37.277938] Disabling protection
+[2023-05-07 01:08:37.294950] Protection disabled
+[2023-05-07 02:14:17.706848] Waiting for device
+[2023-05-07 02:14:25.215671] Found device = 0e8d:0003
+[2023-05-07 02:14:47.618994] Waiting for device
+[2023-05-07 02:14:52.373396] Found device = 0e8d:0003
+[2023-05-07 02:15:33.084720] Waiting for device
+[2023-05-07 02:15:38.841304] Found device = 0e8d:0003
+[2023-05-07 02:21:41.046083] Waiting for device
+[2023-05-07 02:21:47.299001] Found device = 0e8d:0003
+[2023-05-07 02:22:25.262736] Device hw code: 0x766
+[2023-05-07 02:22:25.262736] Device hw sub code: 0x8a00
+[2023-05-07 02:22:25.262736] Device hw version: 0xca00
+[2023-05-07 02:22:25.262736] Device sw version: 0x0
+[2023-05-07 02:22:25.262736] Device secure boot: True
+[2023-05-07 02:22:25.262736] Device serial link authorization: True
+[2023-05-07 02:22:25.262736] Device download agent authorization: True
+[2023-05-07 02:22:25.262736] Disabling watchdog timer
+[2023-05-07 02:22:25.262736] Disabling protection
+[2023-05-07 02:22:25.278361] Protection disabled
+[2023-05-07 02:28:33.041585] Waiting for device
+[2023-05-07 02:28:39.297083] Found device = 0e8d:0003
+[2023-05-07 02:28:56.804639] Device hw code: 0x766
+[2023-05-07 02:28:56.805640] Device hw sub code: 0x8a00
+[2023-05-07 02:28:56.805640] Device hw version: 0xca00
+[2023-05-07 02:28:56.805640] Device sw version: 0x0
+[2023-05-07 02:28:56.805640] Device secure boot: True
+[2023-05-07 02:28:56.806640] Device serial link authorization: True
+[2023-05-07 02:28:56.806640] Device download agent authorization: True
+[2023-05-07 02:28:56.806640] Disabling watchdog timer
+[2023-05-07 02:28:56.807641] Disabling protection
+[2023-05-07 02:28:56.824655] Protection disabled
+[2023-05-07 02:31:07.326313] Waiting for device
+[2023-05-07 02:31:12.080739] Found device = 0e8d:0003
+[2023-05-07 02:31:12.260871] Device hw code: 0x766
+[2023-05-07 02:31:12.261872] Device hw sub code: 0x8a00
+[2023-05-07 02:31:12.261872] Device hw version: 0xca00
+[2023-05-07 02:31:12.261872] Device sw version: 0x0
+[2023-05-07 02:31:12.262873] Device secure boot: True
+[2023-05-07 02:31:12.262873] Device serial link authorization: True
+[2023-05-07 02:31:12.262873] Device download agent authorization: True
+[2023-05-07 02:31:12.262873] Disabling watchdog timer
+[2023-05-07 02:31:12.263874] Disabling protection
+[2023-05-07 02:31:12.281888] Protection disabled
